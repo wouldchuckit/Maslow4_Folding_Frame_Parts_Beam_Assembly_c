@@ -4932,8 +4932,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.412621359223301,
-      "y": 0.9445727482678984,
+      "x": 0.15318230852211434,
+      "y": 0.9284064665127021,
       "uniqueID": "id-26203",
       "name": "Maslow4_Folding_Frame_Parts_hinge_stack",
       "ioValues": [
@@ -8423,8 +8423,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.15210355987055016,
-      "y": 0.9422632794457275,
+      "x": 0.11057173678532903,
+      "y": 0.9214780600461893,
       "uniqueID": "id-27059",
       "name": "Maslow4_Folding_Frame_Parts_hinge_stack-d",
       "ioValues": [
@@ -15425,8 +15425,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.08414239482200647,
-      "y": 0.9260969976905312,
+      "x": 0.0593311758360302,
+      "y": 0.9353348729792148,
       "uniqueID": "id-28212",
       "name": "Maslow4_Folding_Frame_Parts_hinge_stack-b",
       "ioValues": [
@@ -18926,8 +18926,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.6375404530744336,
-      "y": 0.5288683602771362,
+      "x": 0.7583603020496225,
+      "y": 0.5450346420323325,
       "uniqueID": "id-35055",
       "name": "2by4SpoilboardBlock",
       "ioValues": [
@@ -19254,8 +19254,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.6720604099244877,
-      "y": 0.3187066974595843,
+      "x": 0.761596548004315,
+      "y": 0.41108545034642036,
       "uniqueID": "id-28876",
       "name": "Maslow4_Folding_Frame_Parts_Beam",
       "ioValues": [
@@ -24333,8 +24333,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.9093851132686085,
-      "y": 0.22401847575057737,
+      "x": 0.7626752966558791,
+      "y": 0.7321016166281755,
       "uniqueID": "id-38176",
       "name": "MoveBeamCenter",
       "ioValues": [
